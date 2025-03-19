@@ -1,0 +1,5 @@
+MYSQL_HOST: mysql.domain.online
+MYSQL_USER: root
+MYSQL_PASSWORD: Webapp@1
+APP_LOCAION: /app
+COMPONENT: backend
